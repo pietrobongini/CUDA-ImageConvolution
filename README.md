@@ -9,4 +9,6 @@ cudaSharedMemoryConvolution ---> using shared memory of GPU (tiling)
 
 cudaConstantSharedMemoryConvolution ---> using shared memory and the mask in constant memory (tiling)
 
+* .ppm image format is used
 * chrono library is used to measure the execution time
+
