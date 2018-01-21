@@ -12,3 +12,5 @@ cudaConstantSharedMemoryConvolution ---> using shared memory and the mask in con
 * .ppm image format is used
 * chrono library is used to measure the execution time
 
+
+![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/cudaSharedMemoryConvolution/img/computer_programming.ppm)
