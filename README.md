@@ -14,3 +14,6 @@ cudaConstantSharedMemoryConvolution ---> using shared memory and the mask in con
 
 
 ![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/blob/master/sequentialConvolution/img/computer_programming.ppm)
+
+
+![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/blob/master/sequentialConvolution/output/result.ppm)
