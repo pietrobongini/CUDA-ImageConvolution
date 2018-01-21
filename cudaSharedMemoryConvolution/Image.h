@@ -5,7 +5,6 @@
 #ifndef KERNELPROCESSING_IMAGE_H
 #define KERNELPROCESSING_IMAGE_H
 
-
 #ifndef IMAGE_H_
 #define IMAGE_H_
 
