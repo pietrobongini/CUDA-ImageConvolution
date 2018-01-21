@@ -19,4 +19,4 @@ INPUT:
 
 OUTPUT:
 
-![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/blob/master/sequentialConvolution/output/result.ppm)
+![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/blob/master/cudaGlobalConvolution/output/result.ppm)
