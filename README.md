@@ -13,4 +13,4 @@ cudaConstantSharedMemoryConvolution ---> using shared memory and the mask in con
 * chrono library is used to measure the execution time
 
 
-![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/cudaSharedMemoryConvolution/img/computer_programming.ppm)
+![alt text](https://github.com/pietrobongini/CUDA-ImageConvolution/blob/master/sequentialConvolution/img/computer_programming.ppm)
